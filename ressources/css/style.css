@@ -33,3 +33,7 @@ p {
   font-family: verdana;
   font-size: 21px;
 }
+
+.footer{
+  text-align: right;
+}
