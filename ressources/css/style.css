@@ -1,0 +1,28 @@
+h1 {
+  font-family:verdana;
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+  text-align: center;
+  }
+
+  body {
+    background-color: black;
+  }
+
+  a {
+    font-size: 16px;
+    color: aquamarine;
+}
+
+h4{
+  text-align:center;
+}
+  video {
+    text-align: center;
+  }
+
+  img {
+  display: block  ;
+     margin: auto;
+}
